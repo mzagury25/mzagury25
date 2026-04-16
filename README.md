@@ -10,7 +10,7 @@
 📫 You can reach me on: [zagury42@gmail.com](mailto:meuemail@email.com)
 
 
-#WrittenByAnHuman #AsItShouldBe
+
 
 <!--### 📈 GitHub Stats--!>
 <!-- ![mzagury's GitHub stats](https://github-readme-stats.vercel.app/api?username=mzagury25&show_icons=true&theme=dracula) --!>
