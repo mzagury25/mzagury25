@@ -1,16 +1,16 @@
+# Hey!
 
 
+🌱 I'm a data analyst, ready to take a dive in numbers, charts, graphs, statistics and get the meaning out of it. 
 
-# Welcome!
+🤓 I'm also interest in research, specially Machine Learning, Information Retrieval, Natural Language Processing, Computer Vision and Swarm Algorithms.
 
-
-🌱 I’m currently studying Java and Spring Boot for Backend and Python for data analysis, automation and ML.
-
-💻 I’m looking to collaborate on open source projects regarding automation and ML.  
+💻 I plan to apply my knowledge in Mental Health and Environment efforts.
 
 📫 You can reach me on: [zagury42@gmail.com](mailto:meuemail@email.com)
 
 
+#WrittenByAnHuman #AsItShouldBe
 
-### 📈 GitHub Stats
-![mzagury's GitHub stats](https://github-readme-stats.vercel.app/api?username=mzagury25&show_icons=true&theme=dracula)
+<!--### 📈 GitHub Stats--!>
+<!-- ![mzagury's GitHub stats](https://github-readme-stats.vercel.app/api?username=mzagury25&show_icons=true&theme=dracula) --!>
