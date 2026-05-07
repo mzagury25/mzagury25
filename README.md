@@ -1,7 +1,7 @@
 # Hey!
 
 
-🌱 I'm a data analyst, ready to take a dive in numbers, charts, graphs, statistics and get the meaning out of it. 
+🌱 I'm a data scientist, ready to take a dive in numbers, charts, graphs, statistics and build with it.
 
 🤓 I'm also interest in research, specially Machine Learning, Computer Vision and Remote Sensing.
 
