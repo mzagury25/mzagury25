@@ -1,9 +1,6 @@
-# Hey!
-
+# Hello ! 
 
 🌱 I'm a software engineer ready to take a dive in numbers, charts, graphs, statistics and get the meaning out of it, as I'm currently studying machine learning.
-
-🤓 I'm interested in research, specially in NLP and Recommendation Systems.
 
 💻 I plan to apply my knowledge in Health and Environmental efforts.
 
